@@ -1,7 +1,4 @@
-# jodd-http-android
-
-Port Jodd-Http to android (v5.0.4)
-
+# Jodd Http Client for Android
 
 
 Jodd HTTP is tiny, raw HTTP client - and yet simple and convenient. It offers a simple way to send requests and read responses - so to please developers.
