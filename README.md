@@ -30,10 +30,10 @@ dependencies {
 
 
 ### How to use
-please refre to https://jodd.org/http/ for documentation and simple quick start
+please refer to https://jodd.org/http/ for documentation and simple quick start
 
 
-### Todos
+### TO DO
 
  - Android Studio project examples
 
