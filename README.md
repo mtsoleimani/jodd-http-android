@@ -1,6 +1,6 @@
 # jodd-http-android
 
-## ported Jodd-Http to android 
+Port Jodd-Http to android (v5.0.4)
 
 
 
