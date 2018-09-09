@@ -8,6 +8,11 @@
 hs_err_pid*
 
 
-.classpath
+# Eclipse Core      
 .project
-.settingscd 
+
+# JDT-specific (Eclipse Java Development Tools)     
+.classpath
+
+
+/.settings
